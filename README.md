@@ -51,4 +51,4 @@ Contribute to opensourse
    
 ```
 
-#  Happy Hacktoberfesrt 2021 :)
+#  Happy Hacktoberfest 2021 :)
